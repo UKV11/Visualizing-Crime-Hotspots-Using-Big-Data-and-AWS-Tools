@@ -1,0 +1,18 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://crimedatabigdataproject.s3.amazonaws.com/crime_data_cleaned1"
+            ]
+        },
+        {
+            "URIPrefixes": [
+                "https://crimedatabigdataproject.s3.amazonaws.com/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "containsHeader": "true"
+    }
+}
