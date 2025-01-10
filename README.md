@@ -88,6 +88,19 @@ Analyze the prevalence of various crime types across different states.
 - **Visualization**:
   - Interactive mapping and dashboarding.
   - Charting and filtering for trend analysis.
+  - Save the Code: Save the provided Streamlit code as dashboard.py in your working directory.
+
+Install Dependencies: Ensure you have Streamlit and required libraries installed. Run:
+```bash
+   pip install streamlit pandas matplotlib folium statsmodels plotly streamlit-folium
+   ```
+
+Run the Dashboard: Launch the dashboard by running:
+
+```bash
+   streamlit run dashboard.py
+   ```
+Access the Dashboard: After running the command, a link like http://localhost:8501 will appear in your terminal. Open it in your browser.
 
 ---
 
